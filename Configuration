@@ -1,0 +1,16 @@
+offset=<0, 0, 0.021>
+price=L$0
+spin rate=0.0
+scan range=20
+
+[item]
+name=Urban factory
+vend=Urban factory holo
+offset=<0, 0, 0.2>
+price=0 
+
+[item]
+name=La Perla
+vend=La Perla holo
+offset=<0, 0, 0.2>
+price=0
